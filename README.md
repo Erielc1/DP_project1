@@ -23,6 +23,6 @@ Instead of relying strictly on traditional statistical baselines, this project e
 
 ## Results
 `Model 1` significantly outperformed the baseline network, demonstrating that batch normalization and dropout are effective at helping the model generalize unseen demand spikes. 
-* **Model 0 MAE:** 1413.0
-* **Model 1 MAE:** 963.6
+* **Model 0 MAE:** 2097.9
+* **Model 1 MAE:** 1589.8
 * *Model 1 provided a more accurate forecast on 75% of the sampled test cases.*
